@@ -18,14 +18,14 @@
 ---
 
 ## ساختار پروژه
-
+```
 ├── Problem1
 │   ├── nexar-3dcnn- model1.ipynb (مدل و امتیاز نهایی)
 │   └── nexar-3dcnn-preproccesing.ipynb (کد مربوط به پیش پرذازش)
 ├── Problem2
 │   └── Sentimental_analysis.ipynb
 └── README.md
-
+```
 این پروژه توسط گروه ۵ از Quera AI Delta Bootcamp توسعه یافته است.
 
  ## وضعیت پروژه
